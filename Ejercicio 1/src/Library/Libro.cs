@@ -18,11 +18,10 @@ namespace SRP
             this.Code = code;
         }
 
-        public void ShelveBook(String sector, String shelve)
-        {
-            this.LibrarySector = sector;
-            this.LibraryShelve = shelve;
-        }
+        /* El metodo de la ubicacion del libro no tiene que estar en la clase book,
+        por el concepto de SRP*/  
+
+
 
     }
 }
