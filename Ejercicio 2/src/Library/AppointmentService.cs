@@ -73,4 +73,6 @@ De esta forma logro ordenar mejor el programa y en casos de modificaciones el ma
 más amigable. Estas 2 clases tiene como responsabilidad adquirir la información de los mismos.
 Por otro lado la clase AppointmentService la modifique para poder ingresar objetos del tipo
 "Patient" y "Doctor". Tambien agregue un contador, el cual generá el identificador que se solicita en
-la parte numero 3. Esta clase tiene como responsabilidad validar los datos que son ingresados.*/
+la parte numero 3. Esta clase tiene como responsabilidad validar los datos que son ingresados.
+Tarjetas CRC = adjuntas en achivo Excell
+*/
